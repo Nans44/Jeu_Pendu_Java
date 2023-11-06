@@ -4,4 +4,4 @@ Jeu du Pendu en Java, via interface graphique Swing pour exercer compétences de
 
 Liste des mots dans le fichier texte.
 
-A améliorer : gérer la casse
+A AMELIORER : gérer la casse, permettre à l'utilisateur d'entrer un mot complet, indiquer les lettres déjà tapées
